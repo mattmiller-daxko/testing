@@ -4,3 +4,6 @@
 - lettuce
 - tomato
 - celery
+- pasta
+- paper towels
+- beans
